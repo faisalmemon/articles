@@ -16,7 +16,7 @@ But what if the human had a prosthetic leg.  And there was another who didn't ha
 Lets say step-by-step we replace the human with more prosethics until all that remained was a robot.  Would it still be unethical to harm the human robot?
 How about if we started off with a human and a robot and swapped each part of the human with the robot until both were interchanged.  Would it be ethical to harm the robot human?  What about the human robot?  This is an adaptation of the old tale of the Ship of Theseus where the planks of the ship are replaced over time.
 
-Human values say there is a hierarchy so that physical items are at the lowest layer (if they are low complexity like a rock).
+Human values say there is a hierarchy where physical items are at the lowest layer (if they are low complexity like a rock).
 As we go up, we get to Picasso paintings which are physically simple but complex informationally.  (High information, low disorder known as low entropy).
 Then we go to biological systems, from a fly to a penguin, a whale, and then a human.  These are increasing levels of information and lowering entropy.
 The most complex thing in the universe is the human brain.  We value humanity and this sits at the top: highest information, lowest entropy.
