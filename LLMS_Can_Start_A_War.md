@@ -4,7 +4,7 @@
 
 When asked about the potential for harm arising from using Microsoft products, Bill Gates once quipped that he'd rather MS Word was used to write love letters rather than ransom letters.
 
-Humans are known for their tool making and tool use skills.  They are not unique to us, but they certainly put power behind our ideas.
+Humans are known for their tool making and tool use skills.  While not exclusively human, these skills certainly put power behind our ideas.
 
 There is another saying, "To err is human, but to really screw up you need a computer."
 
@@ -47,7 +47,7 @@ But tool use is context based.  If the basic idea is to neutralize trade levels 
   It is counter to economic principles.
 So where do you look for an answer?  Either someone happy to provide an amateur analysis such as someone outside the economic domain of expertise, or an amateur with a tool.
 
-Image you are a White House intern tasked with providing a solution based on the neutral trade level hypothesis.  Then absent of external experts, you need an LLM to fill the gap.
+Imagine you are a White House intern tasked with providing a solution based on the neutral trade level hypothesis.  Then absent of external experts, you need an LLM to fill the gap.
 
 You are inclined to ignore the caveats in the same way that you'd ignore "standard thinking" from "experts" as they don't align with the mission.
 
@@ -61,7 +61,7 @@ The guard rails are in the "wrong" place here.  A real world expert would have c
 
 Chat systems rightly refuse to entertain plainly illegal and malicious uses of them.  They won't tell you how to poison someone.  But who thought about tariff strategies?
 
-The only saving grace here was the order of countries was non-human.  It was obviously LLM-like generative ordering.  It was a unintended marker to indicate AI generation.
+The only saving grace here was the order of countries was non-human.  It was obviously LLM-like generative ordering.  It was an unintended marker to indicate AI generation.
 
 For image generation there is technology to mark the images as generative AI images.  This is a good step forwards.  But the problem remains for generative text.
 
