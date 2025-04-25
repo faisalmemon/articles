@@ -13,7 +13,7 @@ If you take a hammer to a robot, you are causing senseless damage but it wouldn'
 Now attacking a human is unethical - there would need to be strong reasons of self survival or acute danger before we'd consider that.
 
 But what if the human had a prosthetic leg.  And there was another who didn't have a prosthetic leg.  Would it be equally unethical to harm each?
-Lets say step-by-step we replace the human with more prosethics until all that remained was a robot.  Would it still be unethical to harm the human robot?
+Let's say step-by-step we replace the human with more prosthetics until all that remained was a robot.  Would it still be unethical to harm the human robot?
 How about if we started off with a human and a robot and swapped each part of the human with the robot until both were interchanged.  Would it be ethical to harm the robot human?  What about the human robot?  This is an adaptation of the old tale of the Ship of Theseus where the planks of the ship are replaced over time.
 
 Human values say there is a hierarchy where physical items are at the lowest layer (if they are low complexity like a rock).
