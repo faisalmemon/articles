@@ -1,6 +1,8 @@
 # Software Will Never Be Free
 > Faisal Memon 13th February 2025.
 
+![Title Art](./software_never_free.jpg)
+
 This article is about the monetary cost of software, as opposed to the freedoms users might have in using a given piece of software.
 
 ## History
