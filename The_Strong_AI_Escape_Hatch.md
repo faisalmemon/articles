@@ -1,5 +1,7 @@
 # The Strong AI Escape Hatch
 
+![escape_hatch.png](./escape_hatch.png)
+
 You hold a hammer and face five items: a rock, a human, a Neanderthal, a robot and a strong AI.  Order them, ethically, in which order to smash.
 
 You'd think the human should be the least ethical thing to attack, right?
