@@ -1,5 +1,7 @@
 # LLMs Can Start A War
 
+![LLM War](./llm_war.jpg)
+
 When asked about the potential for harm arising from using Microsoft products, Bill Gates once quipped that he'd rather MS Word was used to write love letters rather than ramsom letters.
 
 Humans are known for their tool making and tool use skills.  They are unique to us, but they certainly put power behind our ideas.
@@ -52,7 +54,7 @@ Therefore the now famous tariff cards can come into fruition.
 
 ![Tariff Cards](./tariffs.jpg)
 
-The geopolitical impacts of this are real a serious.  The immediate characterisation is recorded by [Wikipedia: Liberation Day](https://en.wikipedia.org/wiki/Liberation_Day_tariffs)
+The geopolitical impacts of this are real and serious.  The immediate characterisation is recorded by [Wikipedia: Liberation Day](https://en.wikipedia.org/wiki/Liberation_Day_tariffs)
 
 The guard rails are in the "wrong" place here.  A real world expert would have challenged the premise instead of entertaining a solution.  The chat system here entertained a solution but provided reasonable caveats so the information was not misused.
 
