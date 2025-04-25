@@ -2,11 +2,11 @@
 
 ![LLM War](./llm_war.jpg)
 
-When asked about the potential for harm arising from using Microsoft products, Bill Gates once quipped that he'd rather MS Word was used to write love letters rather than ramsom letters.
+When asked about the potential for harm arising from using Microsoft products, Bill Gates once quipped that he'd rather MS Word was used to write love letters rather than ransom letters.
 
-Humans are known for their tool making and tool use skills.  They are unique to us, but they certainly put power behind our ideas.
+Humans are known for their tool making and tool use skills.  They are not unique to us, but they certainly put power behind our ideas.
 
-There is another saying, "To err is human, but to really screw up you need a computer".
+There is another saying, "To err is human, but to really screw up you need a computer."
 
 Computers basically amplify the mind.  If you have a creative genius sitting behind the computer the amplification can be immensely creative.  Sadly, the contrary is also true.
 
@@ -16,15 +16,16 @@ ChatGPT is the most famous example.
 Whilst this article is partly speculative, I think it is reasonable that we've now seen an example of how an idea amplified by an LLM has wrought significant turmoil.
 
 If we take the hypothesis that trade must be balanced between countries and that if countries A and B trade together, the net imports should be zero, we can ask an LLM how to achieve such an outcome.
-This is the crux of the well debated tariff dispute (war) between USA and the rest of the world (most countries).
+This is the crux of the well debated tariff dispute (war) between the USA and the rest of the world (most countries).
 
 Leaving the politics aside for the moment.  Let us ask ourselves how can we detect tool mis-use?
 
-Upon the tariff announcement from USA on 2nd April, 2025 was a press briefing with accompanying tariff cards.  The order of the countries seemed random.  Not in alphabetic order.  Nor tariff level order.
+Upon the tariff announcement from the USA on 2nd April, 2025 was a press briefing with accompanying tariff cards.  The order of the countries seemed random.  Not in alphabetic order.  Nor tariff level order.
 
 It soon emerged that such an ordering is what you might get from asking ChatGPT.  In fact the query:
 ```
-"What would be an easy way to calculate the tariffs that should be imposed on other countries so that the US is on even playing fields when it comes to trade deficit?"
+"What would be an easy way to calculate the tariffs that should be imposed
+on other countries so that the US is on even playing fields when it comes to trade deficit?"
 ```
 
 returns more-or-less the underlying formula that had been applied to foreign countries.  See [ChatGPT](https://chatgpt.com/share/680bf502-db14-800b-9d00-6be7edd30cba).  It comes down to:
