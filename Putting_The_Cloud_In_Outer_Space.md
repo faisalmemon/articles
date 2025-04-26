@@ -28,12 +28,12 @@ using the cloud.
 
 Things have been going well, but there is trouble brewing.  We need to circle back again onto hardware capabilities, and software functionality.
 
-You know you are in trouble when a standard cookie cutter build out of yet another data center is scrapped half way through and you need to start again.  This happened to a large social media compony just
+You know you are in trouble when a standard cookie cutter build out of yet another data center is scrapped half way through and you need to start again.  This happened to a large social media company just
 recently cira 2024.  Why?
 
-When Rap music came out, it didn't obselete Country & Western music.  The world just got richer in its multiplicity of tastes.
+When Rap music came out, it didn't obsolete Country & Western music.  The world just got richer in its multiplicity of tastes.
 
-The modern apps are AI-driven and these come with their own sound track.  This is a technology stack that sits on fast data coordination of highly parallelized matrix mathematics across mutliple GPUs.
+The modern apps are AI-driven and these come with their own sound track.  This is a technology stack that sits on fast data coordination of highly parallelized matrix mathematics across multiple GPUs.
 
 Now there is a massive ramp up of power needs, and cooling needs.  Air cooling is not enough, we need water cooled systems.  Those require their own support systems and infrastructure.
 
@@ -75,7 +75,7 @@ In a way a kind of stability can be achieved.
 Already AI data farms (data centers) are so big, the working assumption is that a percentage of the components, namely GPUs, will be faulty.  You just use software to route around that.  It is not worth
 interrupting processing to cure those issues.  You just need the coherence of the whole to be good.  So having computers in space, far from human hands is not a maintenance problem.
 
-There is an economic cross roads we face.  As the per kg payload launch costs come down due to re-usable rocket technolog (SpaceX Starship), the inherent trade-off is the cost of fuel to escape earth gravity per kg of payload versus the value in tokens produced by that kg of electonics over its lifetime (say 5 years).
+There is an economic cross roads we face.  As the per kg payload launch costs come down due to re-usable rocket technology (SpaceX Starship), the inherent trade-off is the cost of fuel to escape earth gravity per kg of payload versus the value in tokens produced by that kg of electonics over its lifetime (say 5 years).
 
 This hypothesis is currently being tested but it seems the numbers do add up.
 
