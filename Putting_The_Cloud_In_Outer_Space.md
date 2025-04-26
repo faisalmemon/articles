@@ -2,7 +2,7 @@
 
 One of the nice things about babies is that wherever you leave them, when you return, they are where you last left them.  Every parent goes through a shock when they start to crawl (potentially the stairs) and are no longer where you last left them.
 
-In the old days, computers we pretty much where ever you last placed them.  Depending on how grey your hair is, a computer was a large hunk of metal and plastic and not easily transported.
+In the old days, computers were pretty much where ever you last placed them.  Depending on how grey your hair is, a computer was a large hunk of metal and plastic and not easily transported.
 
 A corollary here is that where your data and compute is is well known.
 
@@ -12,7 +12,7 @@ Hardware capabilities, software functionality and economics have come into play 
 
 Skipping over the ancient history of computing to focus on the last cycle, where office-based data centers were switched out for cloud hosting is where we'll start our journey.
 
-When commodity chips, such as the Intel chip, natively were friendly to "virtualisation" it meant software could be written to pretend to upper layers of the software stack that you were running
+When commodity chips, such as the Intel chip, natively were friendly to "virtualization" it meant software could be written to pretend to upper layers of the software stack that you were running
 on your own computer despite the fact you were actually sharing the hardware with someone else.  The same idea spread to network interfaces and graphical processing units in time.
 
 Furthermore the base level capabilities improved.  In the prior generation if you had an application that needed fast writes to big data stores, you'd need to custom order your server computer
@@ -23,7 +23,7 @@ This meant that with only a small number of physical hardware configurations, al
 the facility of virtualisation meant each customer could carve out the preferred sized slice of cake available.
 
 High speed networking meant there was no problems the hosting provider being far from you.  The real distance is the time taken to reach your customers of the application.  For consumer
-facing applictions the cloud offers content delivery networks, basically replicating often asked for information on the edges of the network near the customer.  So that's an additional win for
+facing applications the cloud offers content delivery networks, basically replicating often asked for information on the edges of the network near the customer.  So that's an additional win for
 using the cloud.
 
 Things have been going well, but there is trouble brewing.  We need to circle back again onto hardware capabilities, and software functionality.
@@ -45,7 +45,7 @@ with efficiency.  Think of it as a tailor made suit, one year in the craft of ma
 
 If we think of the output of AI as tokens (consider them word fragments, so say 3 tokens per word), then the equation is cost of electricity (and water) going in, for producing a token going out.
 
-That is the cost of intellgence.  Your per token cost.
+That is the cost of intelligence.  Your per token cost.
 
 We are at a stage where the limiting factor is how easy would it be to setup up a gas powered electrical generator, and order the right transformers to feed my AI chips.  Then getting hold of the said chips is the second problem.
 
@@ -55,7 +55,7 @@ It might seem that we are heading for a predictable future where all you need to
 
 But here things can get weird.  We need to go back to first principles.
 
-Where is the best place for a human to live?  Well we need oxgygen, water, a stable environment.  Hopefully somewhere sunny but not too hot.
+Where is the best place for a human to live?  Well we need oxygen, water, a stable environment.  Hopefully somewhere sunny but not too hot.
 
 If we look at the population distribution of the world, people tend to live near water and prefer the comfortable climates - where wearing a T-shirt is possible at least some time during the year.
 
@@ -65,7 +65,7 @@ Well, we need a good reliable source of energy.  Maybe we need water.  But most 
 
 As the title of this article alludes, outer space?
 
-Putting a datacenter in space has its allure.  The Sun is five times stronger in space.  Solar panels work well.  They need some shielding, as do electronics, but that is a solved problem.
+Putting a data center in space has its allure.  The Sun is five times stronger in space.  Solar panels work well.  They need some shielding, as do electronics, but that is a solved problem.
 Data communication is now possible since the internet reaches into space via StarLink.  Cooling is not a problem because outer space is cold.  Well nearly.
 
 If you face the Sun in orbit, you can heat up to say +125 degrees Celcius, 257 degrees Fahrenheit.  But you have lots of energy to hand.
@@ -75,7 +75,7 @@ In a way a kind of stability can be achieved.
 Already AI data farms (data centers) are so big, the working assumption is that a percentage of the components, namely GPUs, will be faulty.  You just use software to route around that.  It is not worth
 interrupting processing to cure those issues.  You just need the coherence of the whole to be good.  So having computers in space, far from human hands is not a maintenance problem.
 
-There is an economic cross roads we face.  As the per kg payload launch costs come down due to re-usable rocket technology (SpaceX Starship), the inherent trade-off is the cost of fuel to escape earth gravity per kg of payload versus the value in tokens produced by that kg of electonics over its lifetime (say 5 years).
+There is an economic cross roads we face.  As the per kg payload launch costs come down due to re-usable rocket technology (SpaceX Starship), the inherent trade-off is the cost of fuel to escape earth gravity per kg of payload versus the value in tokens produced by that kg of electronics over its lifetime (say 5 years).
 
 This hypothesis is currently being tested but it seems the numbers do add up.
 
