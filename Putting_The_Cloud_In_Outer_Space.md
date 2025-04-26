@@ -1,5 +1,7 @@
 # Putting The Cloud In Outer Space
 
+![Datacenter in space](./datacenter_space.jpg)
+
 One of the nice things about babies is that wherever you leave them, when you return, they are where you last left them.  Every parent goes through a shock when they start to crawl (potentially the stairs) and are no longer where you last left them.
 
 In the old days, computers were pretty much wherever you last placed them.  Depending on how grey your hair is, you might remember a computer as a large hunk of metal and plastic, not easily transported.
