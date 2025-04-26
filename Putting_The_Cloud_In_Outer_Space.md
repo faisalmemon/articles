@@ -2,7 +2,7 @@
 
 One of the nice things about babies is that wherever you leave them, when you return, they are where you last left them.  Every parent goes through a shock when they start to crawl (potentially the stairs) and are no longer where you last left them.
 
-In the old days, computers were pretty much where ever you last placed them.  Depending on how grey your hair is, a computer was a large hunk of metal and plastic and not easily transported.
+In the old days, computers were pretty much wherever you last placed them.  Depending on how grey your hair is, a computer was a large hunk of metal and plastic and not easily transported.
 
 A corollary here is that where your data and compute is is well known.
 
@@ -20,7 +20,7 @@ and stuff it with IO boards so you could hook up your storage devices.  If you i
 differently, preferring network boards over IO boards.  With modern hardware, a generally capable computer could be a standard configuration suitable for many application needs.
 
 This meant that with only a small number of physical hardware configurations, almost all applications could nicely be hosted.  You just needed a big configuration general purpose computer and
-the facility of virtualisation meant each customer could carve out the preferred sized slice of cake available.
+the facility of virtualization meant each customer could carve out the preferred sized slice of cake available.
 
 High speed networking meant there was no problems the hosting provider being far from you.  The real distance is the time taken to reach your customers of the application.  For consumer
 facing applications the cloud offers content delivery networks, basically replicating often asked for information on the edges of the network near the customer.  So that's an additional win for
@@ -37,7 +37,7 @@ The modern apps are AI-driven and these come with their own sound track.  This i
 
 Now there is a massive ramp up of power needs, and cooling needs.  Air cooling is not enough, we need water cooled systems.  Those require their own support systems and infrastructure.
 
-The power demands are such that a large AI-focussed data center has its own electrical substation stepping down the voltage from the grid to feed the air conditioning systems and the computer systems.
+The power demands are such that a large AI-focused data center has its own electrical substation stepping down the voltage from the grid to feed the air conditioning systems and the computer systems.
 Depending on the design, sometimes huge water sources are also needed.
 
 Power efficiency has become king.  When you deal with huge power, exacting efficiency is needed to minimise the overhead costs.  Every data center needs a custom set of electrical transformers to operate
