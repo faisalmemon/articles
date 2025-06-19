@@ -56,7 +56,7 @@ The architects of Fordow will have physical attack defenses at the forefront of 
 
 ### Conclusion
 
-A MOP-only approach would have the reverse of the intended outcome.  It could enhance the pace to reach a bomb.  A hybrid approach of MOP first, regime change is more logical.  It goes without saying, regime change is a highly expensive, unpredictable, and risky road to take.  It centers around the credibility of the 80 versus 800 meters depth assumption.
+A MOP-only approach would have the reverse of the intended outcome.  It could enhance the pace to reach a bomb.  A hybrid approach of MOP first, regime change second is more logical.  It goes without saying, regime change is a highly expensive, unpredictable, and risky road to take.  It centers around the credibility of the 80 versus 800 meters depth assumption.
 
 Other attack vectors seem more viable in this light:
 - Diplomacy
@@ -77,3 +77,4 @@ Other attack vectors seem more viable in this light:
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/faisalmemon/articles/blob/main/Red_Teaming_Fordow.md">Red Teaming Fordow</a> by <span property="cc:attributionName">Faisal Memon</span> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
+The photo is copyright Maxar Technologies/AP/picture alliance. It shows a white service building cut into a mountain. The actual plant is not visible in the photo but instead is hidden underneath the mountain.
