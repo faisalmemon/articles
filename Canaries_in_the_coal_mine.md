@@ -1,4 +1,5 @@
 # Canaries in the coal mine: Early career software engineers
+> Faisal Memon 30th August 2025.
 
 ![Ladder](./ladder.png)
 
