@@ -24,3 +24,13 @@ So the first skill is accepting the mindset of having ideas, but being willing t
 ## Mathematical influence
 
 ## English influence
+
+## Design influence
+
+## Entrepreneur influence
+
+## Top text books
+
+## Watching and reading code from elite engineers
+
+## The AI influence
