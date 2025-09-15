@@ -16,10 +16,10 @@ The things that have helped me the most are what I believe to be the core skills
 
 Taking a framing from Paul Graham, I think the core of it is having an idea and being willing to just keep chipping away at things.  Being at rest with the idea that you are on a journey, you have ideas, but how things go and what you learn along the way must shape the product as much as your initial conception.
 I remember vividly when I was an undergradate Mathematician and we had a computer lab to implement some kind of optimisation algorithm or other.  I found the otherwise top students came to the lab with carefully constructed plans to try out - reading ahead and planning.  I was of the mind you just flicked through the text book, tried out a bit of your code, and then just built on that.
-I takes me further back to when I first wrote code.  I would type in it, and be literally shocked that my well crafted mental construction was full of mistakes!  I thought that was back luck or a lack of talent.  I was frustrated.  I secretly became really good at debugging to cover up for my failings.
-Over time, I just embraced the harsh reality that you just come with some ideas, and the rest is just listening, observing and absorbing what program execution tells you about what you've done and thus what to change to accommodate your learnings.
+It takes me further back to when I first wrote code.  I would type in it, and be literally shocked that my well crafted mental construction was full of mistakes!  I thought that was back luck or a lack of talent.  I was frustrated.  I secretly became really good at debugging to cover up for my failings.
+Over time, I just embraced the harsh reality that you just come with some ideas, and the rest is just listening, observing and absorbing what program execution tells you about what you've done and thus what to change to accommodate your learnings.  Being great at debugging is the corallary.  It just meant you could get through the cycle much faster.  Speeding up that improvement loop, over the long term, is how to develop deep skills in a shorter amount of time.
 
-So the first skill is accepting the mindset of having ideas, but being willing to listen to ground truth and adapting.  Fundamentally learning humility from your side of the keyboard.
+So the first skill is accepting the mindset of having ideas, but being willing to listen to ground truth and adapting.  Fundamentally learning humility from your side of the keyboard.  The second skill is learning how to debug.
 
 ## Mathematical influence
 
