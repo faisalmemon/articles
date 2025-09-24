@@ -35,6 +35,13 @@ I've found that mathematical thinking has been a key helper for me in my softwar
 
 ## English influence
 
+It is sometimes said naming things is the hardest part of software engineering.  Finding a name is hard because the right word can describe so much about intention, usage, and expectations that it is hard to get the right word.  A bad name can throw up a false mental model even before the code has been dug into, and can often steer you the wrong way even when you have read the code.
+
+One thing, albeit later in life, I've learned to appreciate is that reading good books, in the sense of well-written books, is key to providing the right vocabulary and articulation.
+They say you know the meaning of a word by the company it keeps.  That is, to really refine your understanding of a word, you have to see how it is used.  The more you read (audio books count) the more you recognise the meaning of words because you've seen how beautifully they can be all connected together to provide deeper meaning.
+
+I find it now quite easy to give abstractions the right name.  It is usually the case that a few closely related words come to mind.  The skill is developing the taste to know which is the most appropriate word.  English language skill is my fourth skill of software development.
+
 ## Design influence
 
 ## Entrepreneur influence
