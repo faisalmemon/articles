@@ -23,6 +23,16 @@ So the first skill is accepting the mindset of having ideas, but being willing t
 
 ## Mathematical influence
 
+When I first started programming I noticed my mathematical background a little lacking.  At the age of 12, I didn't know what an integer was, and had basic knowledge of binary, powers of two, hexadecimal, and was new to the concept of floating point.  But these are just some basics easily acquired through high school.
+
+The next aspect of mathematics I came across was logic, arithmetic logic and predicate logic.  This is the meat and bones of if-then-else clauses.  This is also easily learnt.
+
+The next was a really big step.  As you progress further in a mathematical education, things start getting abstract, and this continues for a long time.
+
+One important tool in software engineering is data hiding, or rather "abstract data types".  Finding a deeper insight into our software so that we can craft abstractions that clearly convey the concept of what is at hand, whilst hiding uninteresting details is the core of building significant software systems.  As system get large, and are often very large, layers of abstraction are key to keeping the system coherent and maintainable.
+
+I've found that mathematical thinking has been a key helper for me in my software career.  Being able to break something complex down into clearly separated loosely coupled components is a key skill sought for senior software positions.  My mathematical background, whilst removed from practicality, has turned out a jewel in the toolbox.  Mathematical skill is my third skill of software development.
+
 ## English influence
 
 ## Design influence
