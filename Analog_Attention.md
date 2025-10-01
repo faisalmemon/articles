@@ -1,4 +1,9 @@
-Analog In-Memory Attention
+# Analog In-Memory Attention
+> Faisal Memon 1st October 2025.
+
+![Analog Electronics solving digital problems](./alan_analog.png)
+
+https://arxiv.org/pdf/2409.19315
 
 An Analog In-Memory Computing (IMC) architecture is poised to fundamentally rework the economic and performance model of Artificial Intelligence. A groundbreaking new research paper presents an architecture with startling claims: a ×300 speedup and a staggering ×90,000 energy reduction compared to the Nvidia RTX 4090 for the crucial attention mechanism alone.
 
@@ -10,9 +15,11 @@ The IMC design is based on emerging charge-based memories called gain cells. The
 
 When comparing to specific modern GPUs for the attention mechanism alone, the architecture can lead to a speedup of ×7,000 compared to Nvidia Jetson Nano (an embedded application GPU) and ×300 compared to Nvidia RTX 4090. It can achieve an energy reduction of ×40,000 compared to Jetson Nano and ×90,000 compared to RTX 4090. Since the analog circuits introduce non-idealities like decay and non-linear behavior, the current research relies on circuit modeling and simulation (using the SPICE tool), combined with a unique software-to-hardware methodology to map pre-trained models while maintaining high accuracy, achieving performance comparable to GPT-2.
 
-Practical Applications and Deployment Potential
+## Practical Applications and Deployment Potential
 
 The dramatic improvements in speed and energy efficiency provided by this Analog IMC architecture make it highly suitable for deployment in devices with strict power and latency requirements. The architecture can benefit from OSFET transistors that enable dense 3D integration, offering potential for very compact implementations of large networks. This potential for high energy efficiency and compact size is key to integrating powerful AI into edge devices. These energy-efficiency gains mark an important step toward ultra-fast, energy-efficient generative AI. This means powerful AI can be brought to the mobile phone handset, or home robot, or other autonomous technology like driver-less cars.
+
+## A nod to Alan Turing
 
 While reading through this work on using physical analog systems (charge-based capacitors) to solve a digital memory problem, I caught a glimpse of the foundational genius in all of this, Alan Turing.
 
@@ -21,3 +28,7 @@ Turing's era faced a similar vexing engineering challenge. When working on the f
 Alan Turing, working on the UK’s Electronic Delay Storage Automatic Calculator (EDSAC), offered a cheeky twist on this concept. Turing noted to Sir Maurice Wilkes that room-temperature gin had effectively the same essential physical properties as mercury for creating the necessary acoustic delay. Turing jokingly proposed that the EDSAC team could stock up on cocktails instead of requisitioning large quantities of the expensive and poisonous mercury.
 
 Although the EDSAC team actually fitted their computer with thirty-two tanks of mercury, Turing’s anecdote highlights that, both then and now, major leaps in computing efficiency are achieved by moving beyond conventional digital components and leveraging the precise, sometimes non-ideal, physical properties of materials. Ultimately, this new analog approach demonstrates the profound, continuous promise of using volatile, low-power physical systems—whether it's the specific acoustic properties of mercury (or gin!) or the precise decay of a charge-based capacitor—to solve massive digital problems, offering a clear path toward ultra-compact and efficient implementations of large neural networks.
+
+## Copyright
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/faisalmemon/articles/blob/main/Analog_Attention.md">Analog Attention</a> by <span property="cc:attributionName">Faisal Memon</span> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
