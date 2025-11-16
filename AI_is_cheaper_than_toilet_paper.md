@@ -1,33 +1,32 @@
-# AI is cheaper than toilet paper?
+# AI is Cheaper Than Toilet Paper?
 
-A lot of discussion has been made about token costs when using AI.  There is a massive focus by Foundation Model companies on driving down the cost of AI tokens whilst increasing the speed and power of such AI systems.
+A lot of discussion has been made about token costs when using AI. There is a significant focus by foundation model companies on driving down the cost of AI tokens while increasing the speed and power of such AI systems.
 
 My question is: In practical terms, how cheap is AI?
 
-Many years ago I was struck by an analysis of Herman Miller chairs.  Known for their quality and reliability, and also known for their cost!  Over a 10 year period, Herman Miller chairs turn out cheaper than toilet rolls over the same period indicating it as an essential and worthwhile investment in ergonomics.
+Many years ago, I was struck by an analysis of Herman Miller chairs. Known for their quality and reliability, and also for their cost! Over a 10-year period, Herman Miller chairs turn out to be cheaper than toilet rolls over the same period, indicating they are an essential and worthwhile investment in ergonomics.
 
 How about the cost of AI tokens?
 
-In a coding session recently, over 4 hours, on a GPT 4.1 nano model, I used about 1.5M tokens.
-I assume a typical software engineer will do 6 hours coding per day, due to admin and meeting overheads.
+In a recent coding session, over 4 hours, on a GPT-4.1 nano model, I used about 1.5 million tokens. I assume a typical software engineer will code for about 6 hours per day, accounting for admin and meeting overheads.
 
-Now at risk of getting too scatalogical, lets say you consume 10 sheets of toilet paper over the day.  You mileage may vary.  But let us do a back of the envelope analysis.
+Now, at risk of getting too scatalogical, let's say you consume 10 sheets of toilet paper over the day. Your mileage may vary, but let's do a back-of-the-envelope analysis.
 
-4 hours of tokens = 1.51M input tokens, 166k output tokens; total cost 0.14 USD
-1 hour spend = 0.035 USD
-6 hour spend = 0.21 USD
+- 4 hours of token usage = 1.51 million input tokens, 166,000 output tokens; total cost = $0.14 USD
+- 1 hour of work = $0.035 USD
+- 6 hours of work = $0.21 USD
 
-AI Cost in GBP = 0.1596 GBP (0.76 conversion)
+AI cost in GBP = GBP 0.1596 (using a 0.76 exchange rate)
 
-Toilet paper, Luxury Soft White, 0.16 GBP / 100 sheets
+Toilet paper, Luxury Soft White, costs GBP 0.16 per 100 sheets.
 
-10 sheets = 0.016 GBP
+- 10 sheets = GBP 0.016
 
-So actually AI is 10 times the price of toilet paper.
+So, actually, AI is about 10 times the price of toilet paper.
 
-Just to be provacative, I've picked the most trivial cost to compete with the cost of AI.  I've done so because  it gives a qualative feel for where we are at at the moment.  Most of your costs, either directly bourne by you as an independent developer, or indirectly bourne by your employeer, target far higher costs items in reality.
+Just to be provocative, I’ve picked the most trivial cost to compare with AI. I’ve done this because it provides a qualitative sense of where we are at the moment. Most of your costs, either directly borne by you as an independent developer, or indirectly borne by your employer, target much higher expenses in reality.
 
-Given that AI can bring speed, quality, new insights, and greater agility, the question should be: can you afford to NOT use AI?
+Given that AI can bring speed, quality, new insights, and greater agility, the question should be: can you afford NOT to use AI?
 
 ---
 
