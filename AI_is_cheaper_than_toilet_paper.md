@@ -1,4 +1,7 @@
 # AI is Cheaper Than Toilet Paper?
+> Faisal Memon 16th November, 2025.
+
+![Weighing the cost of AI versus toilet paper](./ai_vs_toilet_paper.png)
 
 A lot of discussion has been made about token costs when using AI. There is a significant focus by foundation model companies on driving down the cost of AI tokens while increasing the speed and power of such AI systems.
 
