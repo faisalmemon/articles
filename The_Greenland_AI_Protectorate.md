@@ -1,6 +1,8 @@
     # The Greenland AI Protectorate Dream
     > Faisal Memon 8th January 2026.
 
+    ![arctic_image.png](./arctic_image.png)
+
     An interesting confluence of different technology bets are converging on Greenland, specifically at Nuuk and the Thule air base site (in the far north 2000km away).
 
     ## 4th generation pebble bed reactor
@@ -31,7 +33,7 @@
 
     Traditionally, the factors (or inputs) that make an economy work are: Land, Labour, Capital and Entrepreneurship.  Now we can re-state it as Raw Materials, AI Agents, Compute Infrastructure, and Connectivity respectively.  I say connectivity in place of entrepreneurship because when a capability is available through the internet, any entrepreneur has it to hand, so all the worlds entrepreneurs have a role in the asset.
 
-    The logical place for this is Greenland.  I think USA will keep the Denmark flag on the country but will commandeer the resources via its current footprint.  By providing essential goods (free electricity and local subsidy) in reality it will become a USA protectorate.
+    The logical place for this is Greenland. I think the USA will maintain the status quo of the Denmark flag, but will deeply integrate Greenlandic resources via its current footprint. By providing essential goods like zero-cost electricity and industrial subsidies, it could evolve into a de facto economic partnership—a 21st-century iteration of the protectorate model.
 
     ## Is this a dream or reality?
 
