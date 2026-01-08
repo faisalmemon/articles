@@ -7,6 +7,7 @@
 - [Red Teaming Fordow](./Red_Teaming_Fordow.md)
 - [Canaries in the coal mine: Early career software engineers](./Canaries_in_the_coal_mine.md)
 - [New software workflows in an LLM world](./New_software_workflows_in_an_LLM_world.md)
+- [The Greenland AI Protectorate](./The_Greenland_AI_Protectorate.md)
 
 - [AI is cheaper than toilet paper](./AI_is_cheaper_than_toilet_paper.md)
 
