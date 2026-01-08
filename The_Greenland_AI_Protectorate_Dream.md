@@ -41,14 +41,15 @@ Diplomatically it seems hard to impossible.  Environmentally it seems hard to im
 
 ## Is this an insult to cultural heritage and environmental inheritance?
 
-The people of Greenland have a philosophy of everything kept in place, and harmony with nature and the natural rights of fellow citizens.  Absent the Silicon Valley kool aid, there is a cultural chasm here.
+The people of Greenland have a philosophy of everything kept in place, and harmony with nature and the natural rights of fellow citizens.  Absent the prevailing techno-optimism of Silicon Valley, there is a clear cultural chasm here.
 
-I think on an environmental perspective, there is more balance in the argument.  Green steel, eco-friendly data centers balance against hazard risks (radioactive dust risk, etc.)
+From an environmental perspective, the argument is more finely balanced.  Green steel, eco-friendly data centers balance against hazard risks (radioactive dust risk, etc.)
 
 Migration from a defense treaty with Denmark to a openly commercial exploitation approach is a major legal rubric.
 
-The long running history of humanity, such as the extinction of megafauna and megaflora, shows we tend to exploit more than we conserve.
+The long-running history of humanity —such as the extinction of megafauna and megaflora—
+suggests that we tend to exploit more than we conserve. Ultimately, questions of consent, law, and culture cannot be resolved by technical reasoning alone; they rest with the people directly concerned. How those tensions are addressed will determine what, if anything, unfolds.
 
 ## Copyright
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/faisalmemon/articles/blob/main/The_Greenland_AI_Protectorate.md">The Greenland AI Protectorate</a> by <span property="cc:attributionName">Faisal Memon</span> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/faisalmemon/articles/blob/main/The_Greenland_AI_Protectorate_Dream.md">The Greenland AI Protectorate Dream</a> by <span property="cc:attributionName">Faisal Memon</span> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
