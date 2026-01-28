@@ -1,7 +1,7 @@
 # Taxation in the 21st Century
 > Faisal Memon 28th January 2026.
 
-![taxation_image.png](./taxation_image.png)
+![taxation_image.png](./tax_21_century.png)
 
 ## Introduction
 
@@ -41,7 +41,7 @@ It is rare, but possible to avoid the catastrophe.  The so-called beautiful dele
 
 It would make sense to sacrifice 2% of your wealth each year as an insurance against losing 100% during the Big Cycle.
 
-What I propose is that the government intervene in the PE/VC space.  When a fund invests in a company, the government gets a share.  The government owns an asset instead charging a taxation fee.  But the government does it in a monetised way.  What they do is instead of owning 5% of the company when private money invests in a firm, they give the 5% to a foreign entity, such as a sovereign wealth fund or private market investor.  In return, that foreign company pays the government in local currency.  Essentially a yearly cash fee.
+What I propose is that the government intervene in the PE/VC space.  When a fund invests in a company, the government gets a share.  The government owns an asset instead of charging a taxation fee.  But the government does it in a monetised way.  What they do is instead of owning 5% of the company when private money invests in a firm, they give the 5% to a foreign entity, such as a sovereign wealth fund or private market investor.  In return, that foreign company pays the government in local currency.  Essentially a yearly cash fee.
 
 The reason for this indirection is that it takes the government out of the pricing game and administrative control of the company.  The point of foreign ownership is that many foreign countries can be used.  This avoids the moral hazard of the government being captured by private interests.  All companies have externalities and the government must hold private activities to account for reasons of the environment, public safety, etc.
 
